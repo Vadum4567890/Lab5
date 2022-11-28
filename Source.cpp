@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 
     int arr[] = { 4, 2, 1, 6, -8, 5 };
-
+    // some text
     int min = 0;
     int sum = 0;
     for (int i : arr)
